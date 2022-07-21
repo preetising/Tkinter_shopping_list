@@ -55,4 +55,6 @@ def add():
 my_button = Button(root,text="DELETE", bg="blue",command=delete).pack(pady=15)
 my_button = Button(root,text="ADD" ,bg="blue",command=add).pack(pady=15)
 
+
+
 root.mainloop()
